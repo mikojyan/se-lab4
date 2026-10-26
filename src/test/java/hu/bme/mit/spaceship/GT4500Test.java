@@ -35,4 +35,15 @@ class GT4500Test {
         // Assert
         assertEquals(true, result);
     }
+
+    @Test
+    void fireLaser_NotImplemented_Fail() {
+        // Arrange
+
+        // Act
+        boolean result = ship.fireLaser(FiringMode.SINGLE);
+
+        // Assert
+        assertEquals(false, result); //expects false because method is not implemented yet
+    }
 }
