@@ -1,0 +1,5 @@
+# TC2 (R3): SINGLE shots alternate between the stores
+GT4500,2,0.0,2,0.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # primary again

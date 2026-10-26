@@ -1,0 +1,3 @@
+# TC5 (R5): fired store fails, the other one must not be tried
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE  # primary always fails; secondary (which would succeed) is not tried

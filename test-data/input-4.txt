@@ -1,0 +1,3 @@
+# TC4 (R4): primary is empty, so the secondary fires
+GT4500,0,0.0,1,0.0
+TORPEDO,SINGLE  # falls back to secondary
